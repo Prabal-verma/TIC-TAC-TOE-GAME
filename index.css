@@ -33,8 +33,8 @@
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.7);
     font-size: 8vmin;
-    color: #d23530;
-    background-color: #fdfd94;}
+    color: #6171cb;
+    background-color: #2ce269;}
 
  
 
@@ -50,8 +50,8 @@
     padding: 1rem;
     font-size: 2rem;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    background-color: #f35f5f;;
-    text-shadow: 0 0 5px #e75722, 0 0 5px #252222;;
+    background-color: #5fe939;;
+    text-shadow: 0 0 5px #054b20, 0 0 5px #252222;;
     border-radius: 2rem;
     border: none;
     
@@ -61,7 +61,7 @@
     color: #22223b;
     font-size: 8vmin;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 0 0 5px #e72222, 0 0 5px #414040;}
+    text-shadow: 0 0 5px #13949f, 0 0 5px #414040;}
   
   .msg-container{
     height: 100vmin;
